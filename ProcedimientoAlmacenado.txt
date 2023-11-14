@@ -1,0 +1,3 @@
+CREATE PROCEDURE dbo.consultar_personas_creadas
+AS 
+SELECT * FROM Pruebas.dbo.Personas
