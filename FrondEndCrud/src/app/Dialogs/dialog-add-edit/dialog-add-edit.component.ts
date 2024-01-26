@@ -70,7 +70,7 @@ export class DialogAddEditComponent implements OnInit {
 
     const modelo:Persona=
     {
-      id:0,
+      id:2,
       nombres:this.formPersona.value.nombres,
       apellidos:this.formPersona.value.apellidos,
       noidentificacion:this.formPersona.value.noidentificacion,
